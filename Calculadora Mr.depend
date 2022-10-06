@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1665032687 source:c:\users\joão silva\documents\calculadora mr\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
